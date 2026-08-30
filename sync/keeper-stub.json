@@ -1,0 +1,6 @@
+{
+  "id": "keeper-record-001",
+  "scope": "acme:secret/payments",
+  "target": "/acme/payments/production/database",
+  "value": "stub-keeper-value"
+}
